@@ -1,39 +1,18 @@
-## Hi there, I'm Andrew👋
+I'm Andrew 👋
+AI product leader, hands-on builder, and two-time founder with 15+ years of experience across AI, fintech, and marketplaces. I enjoy finding painful customer problems, taking products from 0 to 1, and using technology to scale without scaling headcount.
 
-I like understanding problems and coming up with ways to solve them. 
-I've spent the last decade-plus founding and running early-stage companies, most recently building an AI-native furniture marketplace from scratch: product, engineering, and go-to-market all under one roof.
-
----
-
-**Right now**
-
-Running product and engineering at **MOFO** ([ministryoffineobjects.com](https://ministryoffineobjects.com)) — connecting design professionals with contract-grade furniture stocked in the US. The parts I'm most proud of:
-- An AI visual search pipeline (GPT-4.1 mini + Algolia) that turns a photo into a filtered product search
-- Automated tagging that cut manual catalog work by 40+ hours/month
-- AI-assisted content generation for the brand's voice
-
-**Before that**
-- Founded and ran **Kickpay** (YC W15) for nearly a decade — non-recourse debt financing for e-commerce SMBs. Held a 2bp lifetime loss rate (~25x better than industry norms), backed by Y Combinator, Index Ventures, Canaan, and Foundation Capital.
-- Led business development at **Heyzap** (acquired, $45M) — took its SDK into 2,000+ games and 130M+ users.
-
-**Education**
-
-MPhil, Industrial Systems, University of Cambridge · BEng, Mechanical Engineering & Industrial Design, University of Glasgow
-
-Reach out: [LinkedIn](https://www.linkedin.com/in/andrewmccalister/) · [Email](mailto:andrewmccalister@googlemail.com)
-
-
-<!--
-**mccaly/mccaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently
+Co-Founder & CTO at MOFO — Building an AI-powered furniture sourcing platform that helps professional designers find products matching their aesthetic, contract-grade, availability, and budget requirements without searching across hundreds of vendor sites.
+Building customer-facing AI search — Launched visual search across 10,000+ products, allowing designers to upload an inspiration image and discover visually similar furniture.
+Building with agents — Developed multi-agent workflows across product, sales, and marketing that save approximately 60 hours of manual work each month.
+Improving AI quality and efficiency — Built an evaluation system that increased agent pass rates from 30% to 95% while reducing token costs by 75%.
+Recent
+AI Product & Operations Consultant at Ultrametric — Integrated third-party capabilities into an AI product that enables customers to set up a new business end to end, replacing hours of manual work.
+Previous
+Co-Founder & CEO at Kickpay — Built an inventory-financing platform for e-commerce businesses. Led a customer-driven pivot, developed automated underwriting across 500,000+ SKUs, originated more than $50M in loans, and raised $4M from Y Combinator, Index Ventures, Canaan Partners, and Foundation Capital.
+Director of Business Development at Heyzap — Co-led a five-person sales team and helped expand the mobile advertising SDK to 2,000+ games and a network reaching 130M users. Heyzap was acquired for $45M.
+Background
+Master’s in Industrial Systems from the University of Cambridge.
+Bachelor’s in Mechanical Engineering and Industrial Design from the University of Glasgow.
+Let's connect
+Email
